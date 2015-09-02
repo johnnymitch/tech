@@ -9,7 +9,3 @@
 - https://nodejs.org/en/
 - https://www.docker.com
 - https://reactioncommerce.com
-
-### See what tech stacks startups use
-
-- http://onboard.site/?ref=producthunt
